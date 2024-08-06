@@ -51,6 +51,7 @@ Jest is a popular testing framework for JavaScript that makes it easy to write a
    Create a new file with a `.test.js` extension. For example, `sum.test.js`:
 
     `.test.js` File Type
+    
     Jest recognizes test files based on their naming convention. The most common convention is to use the .test.js file extension. This helps Jest identify which files contain test cases and should be executed.
 
    ```javascript
