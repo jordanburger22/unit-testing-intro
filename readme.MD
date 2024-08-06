@@ -1,7 +1,3 @@
-Here’s a sample README to explain unit testing, its role in web development, and its importance, especially for students learning it for the first time using Jest:
-
----
-
 # Unit Testing with Jest
 
 ## Introduction
